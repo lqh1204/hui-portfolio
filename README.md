@@ -1,3 +1,6 @@
+# hui-portfolio
+My portfolio page.
+
 # About Me
 Hi, my name is Hugo Hui, and I'm currently enrolled in the Telling Stories with Data course. I'm passionate about using data to create compelling narratives that drive decisions. I'm pursuing a MISM program at CMU and have an interest in data visualization and storytelling. Outside of academics, I enjoy readings, which also inspire my work in data analytics. I'm excited to connect with others in this course and beyond.
 
