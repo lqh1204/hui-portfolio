@@ -1,8 +1,15 @@
 ![Government Debt Chart](export-2024-09-09T20_05_33.409Z.png)
+
+# Government Debt Visualization
+
+This visualization shows the government debt as a percentage of GDP for various countries, based on OECD data from 2022.
+
+## Interactive Tableau Visualization:
+
 <div class='tableauPlaceholder' id='viz1725916286512' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='Government Debt as a Percentage of GDP (2022)Source: OECD, General Government Debt-to-GDP Ratio, 2022.' 
+      <img alt='Government Debt as a Percentage of GDP (2022) Source: OECD, General Government Debt-to-GDP Ratio, 2022.' 
            src='https://public.tableau.com/static/images/Bo/Book1_17259162460720/OECD-Debt-to-GDPRatiobyCountry/1_rss.png' 
            style='border: none' />
     </a>
@@ -34,3 +41,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+## Data Source:
+- **OECD**: General Government Debt-to-GDP Ratio, 2022.
+
+---
+
+[Return to main portfolio page](readme.md)
