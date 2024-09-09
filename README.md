@@ -9,4 +9,5 @@ In this course, I hope to enhance my skills in data visualization and storytelli
 
 # Portfolio
 - **Assignments:**
+- [some text here](/dataviz2.md)
 - **Final Project:**
