@@ -8,7 +8,7 @@ This chart provides a snapshot of government debt as a percentage of GDP for var
 
 ## Explore More Visualizations:
 
-- [Debt-to-GDP Trends Over Time (Part 2 - Heat Map)](dataviz2.md)
+- [Debt-to-GDP Trends Over Time (Part 2 - Highlited Tables)](dataviz2.md)
 - [Debt-to-GDP Trends for G7 Countries (Part 3 - Line Chart)](dataviz3.md)
 
 ## Data Source:
