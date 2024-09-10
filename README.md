@@ -9,6 +9,8 @@ In this course, I hope to enhance my skills in data visualization and storytelli
 
 # Portfolio
 - **Assignments:**
-  - [Government Debt Visualization](dataviz2.md)
+  - [Government Debt Visualization - Part 1](dataviz1.md)
+  - [Government Debt Heat Map - Part 2](dataviz2.md)
+  - [Debt-to-GDP Trends for G7 Countries - Part 3](dataviz3.md)
 - **Final Project:**
 
