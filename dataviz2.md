@@ -1,5 +1,3 @@
-![Government Debt Chart](export-2024-09-09T20_05_33.409Z.png)
-
 # Government Debt Visualization
 
 This visualization shows the government debt as a percentage of GDP for various countries, based on OECD data from 2022.
