@@ -4,7 +4,7 @@ This line chart shows the debt-to-GDP ratios for G7 countries from 2000 to 2022.
 
 ## Interactive Tableau Visualization:
 
-![Debt-to-GDP Trends for G7 Countries](https://public.tableau.com/static/images/pa/part3_17259308692910/Sheet1/1_rss.png)
+![Debt-to-GDP Trends for G7 Countries](https://github.com/your-username/your-repo/blob/main/path-to-image.png)
 
 You can interact with the full version of the visualization [here](https://public.tableau.com/views/part3_17259308692910/Sheet1).
 
