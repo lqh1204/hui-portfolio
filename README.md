@@ -1,4 +1,4 @@
-# Hui-portfolio
+# Telling Stories with Data Portfolio --- Hugo Hui
 My portfolio page.
 
 # About Me
