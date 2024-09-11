@@ -8,9 +8,9 @@ Hi, my name is Hugo Hui, and I'm currently enrolled in the Telling Stories with 
 In this course, I hope to enhance my skills in data visualization and storytelling. I want to learn how to transform complex data sets into clear, compelling stories that can influence and inform decision-making. After graduating, I plan to work in tech industries, where I can apply these skills to real-world problems.
 
 # Portfolio
-- **Assignments:Visualizing government debt using Tableau**
-  - [Government Debt Visualization - Part 1](dataviz1.md)
-  - [Government Debt Highligt Tables - Part 2](dataviz2.md)
-  - [Debt-to-GDP Trends for G7 Countries - Part 3](dataviz3.md)
+- **Assignments: Visualizing government debt using Tableau**
+  - [Part 1: Working with web-based visualization tools and data](dataviz1.md)
+  - [Part 2: Working with Tableau](dataviz2.md)
+  - [Part 3: Create your own visualization](dataviz3.md)
 - **Final Project:**
 
