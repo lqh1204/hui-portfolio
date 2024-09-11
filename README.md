@@ -1,4 +1,4 @@
-# hui-portfolio
+# Hui-portfolio
 My portfolio page.
 
 # About Me
