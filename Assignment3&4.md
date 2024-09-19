@@ -48,12 +48,12 @@ Based on the feedback, I made several improvements to the final design:
 ## 5. Build my solution 
 
 ### Link to the Final Tableau Visualization:
-You can also view my work for the interactive version of this visualization on Tableau Public:  
+View my work for the interactive version of this visualization on Tableau Public:  
 [2024 Paris Olympics - Total Medal Count by Country](https://public.tableau.com/views/Part5_Solutions/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Interactive Tableau Visualization:
 
-![2024 Paris Olympics - Total Medal Count by Country](https://public.tableau.com/static/images/Pa/Part5_Solutions/Sheet1/1_rss.png)
+![2024 Paris Olympics - Total Medal Count by Country](pending.png)
 
 ---
 
