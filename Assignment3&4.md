@@ -22,7 +22,7 @@ I began the redesign by sketching out a **pen-and-pencil draft** that focused on
 
 ---
 
-### 3. User Feedback (Step 4: Test the Solution)
+### 3. User Feedback
 
 I shared my draft with two different individuals to gather feedback. Here are the key insights from their responses:
 
