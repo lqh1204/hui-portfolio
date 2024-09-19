@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project focuses on redesigning a data visualization of the **2024 Paris Olympic Medal Count**. The original visualization primarily emphasized gold medals, while silver and bronze were considered only for ties. My goal was to create a more balanced and comprehensive visualization that presents the **total number of medals** (gold, silver, and bronze) for the top 10 countries in the 2024 Paris Olympics.
+This project focuses on redesigning a data visualization of the **2024 Paris Olympic Medal Count**. The original visualization, available on [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html), primarily emphasized gold medals, while silver and bronze were considered only for ties. My goal was to create a more balanced and comprehensive visualization that presents the **total number of medals** (gold, silver, and bronze) for the top 10 countries in the 2024 Paris Olympics.
 
 ## Step-by-Step Process
 
 ### 1. Original Visualization
 
-The original data visualization focused primarily on the **gold medal count** for each country and showed the evolution of medal standings throughout the Olympics. While this provided useful insight into the standings based on gold medals, it did not offer a complete view of each country's overall medal performance. To improve this, I decided to redesign the visualization by including the **total medals** (gold, silver, and bronze) to better communicate each country's overall success.
+The original data visualization on [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html) focused primarily on the **gold medal count** for each country and showed the evolution of medal standings throughout the Olympics. While this provided useful insight into the standings based on gold medals, it did not offer a complete view of each country's overall medal performance. To improve this, I decided to redesign the visualization by including the **total medals** (gold, silver, and bronze) to better communicate each country's overall success.
 
 - **Original Visulization Screenshot**: ![Draft](paris_original.png)
 
