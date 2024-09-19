@@ -36,7 +36,7 @@ I shared my draft with two different individuals to gather feedback. Here are th
 
 ---
 
-### 4. Redesign in Tableau
+### 4. Redesign in Tableau and build my solution
 
 Based on the feedback, I made several improvements to the final design:
 
@@ -44,8 +44,23 @@ Based on the feedback, I made several improvements to the final design:
 2. **Sorted by Total Medals**: The countries are now sorted by their **total medal count**, making it easier to see the overall performance of each country.
 3. **Refined Colors**: I maintained distinct colors for **gold**, **silver**, and **bronze** to differentiate the medal types.
 
+#### **Step 1: Prepare the Data**
+I created a **CSV file** containing the medal data for the top 10 countries from the **2024 Paris Olympics**. The data included columns for **Country**, **Medal Type** (Gold, Silver, Bronze), and **Medal Count**.
+
+#### **Step 2: Import the Data into Tableau**
+I imported the restructured CSV file into Tableau to begin building the visualization.
+
+#### **Step 3: Create the Stacked Bar Chart**
+In Tableau, I designed a **stacked bar chart** that represented each country’s total medals, with gold, silver, and bronze displayed in different colors to differentiate the medal types.
+
+#### **Step 4: Customize and Finalize the Visualization**
+I applied appropriate colors to represent each medal type and added labels for clarity. The countries were sorted by total medals to make comparison easier.
+
+#### **Step 5: Publish to Tableau Public**
+After finalizing the visualization, I published the result to **Tableau Public** and generated a link and an image for sharing.
+
 ---
-## 5. Build my solution 
+## 5. Final result 
 
 ### Link to the Final Tableau Visualization:
 View my work for the interactive version of this visualization on Tableau Public:  
