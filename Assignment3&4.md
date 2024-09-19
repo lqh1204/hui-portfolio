@@ -53,7 +53,7 @@ View my work for the interactive version of this visualization on Tableau Public
 
 ### Interactive Tableau Visualization:
 
-![2024 Paris Olympics - Total Medal Count by Country](pending.png)
+![2024 Paris Olympics - Total Medal Count by Country](step3.png)
 
 ---
 
