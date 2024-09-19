@@ -12,5 +12,8 @@ In this course, I hope to enhance my skills in data visualization and storytelli
   - [Part 1: Working with web-based visualization tools and data](dataviz1.md)
   - [Part 2: Working with Tableau](dataviz2.md)
   - [Part 3: Create your own visualization](dataviz3.md)
+- **Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)**
+  - [2024 Paris Olympic Medal Count - Data Visualization Redesign](Assignment3&4.md)
+
 - **Final Project:**
 
