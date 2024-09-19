@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on redesigning a data visualization of the **2024 Paris Olympic Medal Count**. The original visualization, available on [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html), primarily emphasized gold medals, while silver and bronze were considered only for ties. My goal was to create a more balanced and comprehensive visualization that presents the **total number of medals** (gold, silver, and bronze) for the top 10 countries in the 2024 Paris Olympics.
+I chose this project from **MakeoverMonday** to redesign a data visualization of the **2024 Paris Olympic Medal Count**. The original visualization, available on [Le Monde](https://www.lemonde.fr/en/les-decodeurs/article/2024/08/07/paris-2024-olympics-how-the-medal-table-has-evolved-since-the-start-of-the-games_6711001_8.html), primarily emphasized gold medals, while silver and bronze were considered only for ties. My goal was to create a more balanced and comprehensive visualization that presents the **total number of medals** (gold, silver, and bronze) for the top 10 countries in the 2024 Paris Olympics.
 
 ## Step-by-Step Process
 
