@@ -4,18 +4,6 @@
 
 This project focuses on redesigning a data visualization of the **2024 Paris Olympic Medal Count**. The original visualization primarily emphasized gold medals, while silver and bronze were considered only for ties. My goal was to create a more balanced and comprehensive visualization that presents the **total number of medals** (gold, silver, and bronze) for the top 10 countries in the 2024 Paris Olympics.
 
-### Link to the Final Tableau Visualization:
-You can also view my work for the interactive version of this visualization on Tableau Public:  
-[2024 Paris Olympics - Total Medal Count by Country](https://public.tableau.com/views/Part5_Solutions/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-### Interactive Tableau Visualization:
-
-![2024 Paris Olympics - Total Medal Count by Country](https://public.tableau.com/static/images/Pa/Part5_Solutions/Sheet1/1_rss.png)
-
----
-
 ## Step-by-Step Process
 
 ### 1. Original Visualization
@@ -48,7 +36,7 @@ I shared my draft with two different individuals to gather feedback. Here are th
 
 ---
 
-### 4. Redesign in Tableau (Step 5: Build the Solution)
+### 4. Redesign in Tableau
 
 Based on the feedback, I made several improvements to the final design:
 
@@ -57,10 +45,7 @@ Based on the feedback, I made several improvements to the final design:
 3. **Refined Colors**: I maintained distinct colors for **gold**, **silver**, and **bronze** to differentiate the medal types.
 
 ---
-
-## Conclusion
-
-This project aimed to create a more balanced representation of Olympic performance by visualizing the **total medal count** for each country in the **2024 Paris Olympics**. The final Tableau visualization achieved this by including clear labels, appropriate sorting, and maintaining the visual distinction between gold, silver, and bronze medals. The feedback collected during the testing phase helped guide the final adjustments, leading to a more informative and user-friendly design.
+## 5. Build my solution 
 
 ### Link to the Final Tableau Visualization:
 You can also view my work for the interactive version of this visualization on Tableau Public:  
@@ -71,6 +56,10 @@ You can also view my work for the interactive version of this visualization on T
 ![2024 Paris Olympics - Total Medal Count by Country](https://public.tableau.com/static/images/Pa/Part5_Solutions/Sheet1/1_rss.png)
 
 ---
+
+## Conclusion
+
+This project aimed to create a more balanced representation of Olympic performance by visualizing the **total medal count** for each country in the **2024 Paris Olympics**. The final Tableau visualization achieved this by including clear labels, appropriate sorting, and maintaining the visual distinction between gold, silver, and bronze medals. The feedback collected during the testing phase helped guide the final adjustments, leading to a more informative and user-friendly design.
 
 ## Navigation
 
