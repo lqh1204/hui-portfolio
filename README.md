@@ -16,4 +16,4 @@ In this course, I hope to enhance my skills in data visualization and storytelli
   - [2024 Paris Olympic Medal Count - Data Visualization Redesign](Assignment3&4.md)
 
 - **Final Project:**
-
+  - [Part I: The Dramatic Rise of Computer Science vs. Slower Progress in Other Fields](finalproject_part1.md)
