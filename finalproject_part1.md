@@ -29,14 +29,17 @@ The project will follow a story arc that highlights:
 ### Sketch 1: The Evolution of Computing Power and Size
 - **Description**: A timeline showing the rapid development of computers from large, room-sized machines (ENIAC) to modern laptops and smartphones.
 - **Data**: Computing power increases (Moore’s Law) and the decreasing size of computing devices.
+- ![Sketch 1](sketch1.jpg)
 
 ### Sketch 2: Comparing Innovation in CS vs. Other Fields
 - **Description**: A line graph comparing innovation milestones in CS (internet, AI, smartphones) with slower developments in rocketry (Apollo, SpaceX), biology (genetic discoveries), and physics.
 - **Data**: Major breakthroughs in each field, showing how CS has experienced exponential growth while others have lagged.
+- - ![Sketch 2](sketch2.jpg)
 
 ### Sketch 3: Incremental Changes in Tech Products
 - **Description**: A bar chart or line graph showing the incremental changes in smartphones, AI, and other internet products over the past 5-10 years.
 - **Data**: Annual improvements in iPhones, AI tools, graphics cards, and other related tech products.
+- - ![Sketch 3](sketch3.jpg)
 
 ## The Data
 
