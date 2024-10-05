@@ -8,11 +8,13 @@ The following wireframes represent key data visualizations and storytelling elem
 
 ### Wireframe 1: Tech Employee Layoffs Over Time
 This wireframe displays the number of tech employees laid off from 2022 to mid-2023 using a bar graph. It highlights significant spikes in layoffs in early 2023.
+Source: Layoffs.fyi, as of July 2023
 
 ![Wireframe 1](w1.jpg)
 
 ### Wireframe 2: U.S. Unemployment Rate vs Tech Layoffs
 This wireframe juxtaposes the U.S. unemployment rate with tech layoffs, showing the contradiction between a generally low unemployment rate and the mass layoffs in tech.
+Source: U.S. Bureau of Labor Statistics Data as of February 2024
 
 ![Wireframe 2](w2.jpg)
 
