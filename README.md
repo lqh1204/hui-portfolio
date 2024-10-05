@@ -17,3 +17,4 @@ In this course, I hope to enhance my skills in data visualization and storytelli
 
 - **Final Project:**
   - [Part I: The Paradox of Tech Layoffs Amid AI Growth: What It Means for Future Tech Graduates?](finalproject_part1.md)
+  - [Part II: Analyzing Tech Layoffs and AI's Influence on Employment](finalproject_part2.md)
