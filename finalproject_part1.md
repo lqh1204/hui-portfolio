@@ -1,4 +1,4 @@
-# Final Project Part I: The Dramatic Rise of Computer Science vs. Slower Progress in Other Fields
+# Where Do Employees Go After Tech Layoffs? And What's the future for tech major students?
 
 ## Introduction
 
