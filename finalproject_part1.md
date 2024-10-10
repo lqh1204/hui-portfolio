@@ -1,4 +1,4 @@
-# Where Do Employees Go After Tech Layoffs? And What's the future for tech major students?
+# Where Do Employees Go After Tech Layoffs? And What's the future for tech graduates?
 
 ## Introduction
 
