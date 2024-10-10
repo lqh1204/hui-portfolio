@@ -2,9 +2,9 @@
 
 In Part II, I refined the story, developed wireframes, and conducted user research. This section provides a detailed breakdown of the wireframes and user research process, as well as feedback from interviews.
 
-## 1. Wireframes and Storyboards
+## 1. Narrative Structure and Outline
 
-The following wireframes represent key data visualizations and storytelling elements, providing a clear visual walk-through of my narrative.
+The overarching theme is to examine the impact of mass layoffs on tech workers and where these displaced employees find new opportunities. The story will follow a structured approach, emphasizing the shifting landscape of tech jobs and providing a clear call to action for tech students, recent graduates, and current employees. Below is the outline for the revised narrative:
 
 ### Wireframe 1: Tech Employee Layoffs Over Time
 This wireframe displays the number of tech employees laid off from 2022 to mid-2023 using a bar graph. It highlights significant spikes in layoffs in early 2023.
