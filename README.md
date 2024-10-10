@@ -18,3 +18,4 @@ In this course, I hope to enhance my skills in data visualization and storytelli
 - **Final Project:**
   - [Part I: Where Do Employees Go After Tech Layoffs?](finalproject_part1.md)
   - [Part II: Narrative Structure, Storyboards, and User Research](finalproject_part2.md)
+  - [Part III: Final Deliverable and Presentation](finalproject_part3.md)
