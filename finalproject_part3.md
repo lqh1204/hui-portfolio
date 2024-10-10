@@ -64,3 +64,6 @@ The complete project files, including Parts I, II, and III, are available on my 
 - [x] In-person presentation scheduled and prepared with supporting visuals.
 
 This concludes the submission for Part III of the final project. The story, visualizations, and resources collectively aim to provide a comprehensive look into the shifting landscape of the tech industry and the steps individuals can take to thrive in it.
+
+## Navigation
+- [Back to Main Portfolio](README.md)
